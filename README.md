@@ -10,6 +10,6 @@
 
 # Feature 2: Modify contents
 # Estimated time needed: 2 hours
-# Time started: 12:00pm
+# Time started: 12:00pm, paused at 1:23pm
 # Time completed:
 # Actual time needed:
