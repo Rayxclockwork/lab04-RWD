@@ -14,7 +14,7 @@
 # Time completed:
 # Actual time needed:
 
-# Feature 1 day 2: Add Functionality
+# Feature 1 day 2: Add Functionality (768px)
 # Estimated time needed:
 # Time Started:
 # Time completed:
