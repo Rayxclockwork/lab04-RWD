@@ -1,4 +1,4 @@
-# lab04-RWD
+# lab04-RWD Portfolio
 
 # Edited by Raven Delaney (for personal use)
 
@@ -11,5 +11,11 @@
 # Feature 2: Modify contents
 # Estimated time needed: 2 hours
 # Time started: 12:00pm, paused at 1:23pm
+# Time completed:
+# Actual time needed:
+
+# Feature 1 day 2: Add Functionality
+# Estimated time needed:
+# Time Started:
 # Time completed:
 # Actual time needed:
