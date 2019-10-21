@@ -2,6 +2,10 @@
 
 # Edited by Raven Delaney (for personal use)
 
+# sources:
+# https://codepen.io/trungk18/pen/EydyoL
+# https://www.instagram.com/audrey.serene.art/
+
 # Feature 1: Refactor CSS
 # Estimated time needed: 15 minutes
 # Time Started: 11:30am
@@ -15,7 +19,7 @@
 # Actual time needed:
 
 # Feature 1 day 2: Add Functionality (768px)
-# Estimated time needed:
-# Time Started:
+# Estimated time needed: 1hour, 30 minutes
+# Time Started: 9:35am
 # Time completed:
 # Actual time needed:
