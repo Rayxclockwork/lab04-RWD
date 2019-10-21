@@ -21,5 +21,5 @@
 # Feature 1 day 2: Add Functionality (768px)
 # Estimated time needed: 1hour, 30 minutes
 # Time Started: 9:35am
-# Time completed:
-# Actual time needed:
+# Time completed: 11:30am
+# Actual time needed: 2 hours
